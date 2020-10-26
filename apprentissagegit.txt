@@ -1,7 +1,8 @@
 git init   ---------> initialisation projet
 git status ---------> verifier les changements
 
-git diff  --------> verifier les changementss
+git diff  --------> verifier les changements
+git diff master..secondbranche ----------> vérifier les differences
 
 git log ---------> liste des commit
 git branch --------> liste des branches
