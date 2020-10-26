@@ -13,3 +13,6 @@ git branch -d nomBranche ------> supprimer la branche
 
 
 git remote add origin https://github.com/jules3198/apprentissagegit.git   -----> remote connection
+
+
+git push -u orgin master ---------> push sur master
