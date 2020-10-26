@@ -10,3 +10,6 @@ git branch nomBranche ---------> créer une branche
 git checkout nomBranche --------> pour se mettre sur une branche
 git merge branche -----> association de branche
 git branch -d nomBranche ------> supprimer la branche
+
+
+git remote add origin https://github.com/jules3198/apprentissagegit.git   -----> remote connection
