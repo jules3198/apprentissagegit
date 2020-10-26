@@ -2,3 +2,8 @@ git init   ---------> initialisation projet
 git status ---------> verifier les changements
 
 git diff  --------> verifier les changementss
+
+git log ---------> liste des commit
+git branch --------> liste des branches
+git branch nomBranche ---------> créer une branche
+git checkout nomBranche --------> pour se mettre sur une branche
