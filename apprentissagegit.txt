@@ -9,3 +9,4 @@ git branch --------> liste des branches
 git branch nomBranche ---------> créer une branche
 git checkout nomBranche --------> pour se mettre sur une branche
 git merge branche -----> association de branche
+git branch -d nomBranche ------> supprimer la branche
