@@ -1,2 +1,4 @@
 git init   ---------> initialisation projet
 git status ---------> verifier les changements
+
+git diff  --------> verifier les changementss
